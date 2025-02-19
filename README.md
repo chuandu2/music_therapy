@@ -5,19 +5,25 @@
 ## Project Overview
 - Topic: 
 
-- Goal: 
-  
-  
-- Dataset: 
+### Goal: 
+- Investigate the relationship between different music-listening habits and mental conditions
+- Explore whether the preferred music genres postively or negatively affect mental state
+- Identify music genres that should be recommended for healing specific types of mental problems (Anxiety, Depression, Insomnia, Obsessive Compulsive Disorder)
 
-  The dataset used here is originally from ??. It contains ?? rows and ?? variables, including ‘id’: the id of a question pair; ‘qid1’,‘qid2’: unique ids for each question; ‘question1’, ‘question2’: full text of each question in the pair; ‘is_duplicate’: the target variable, to determine if the questions in the pair are with the same meaning (Yes: 1, No: 0), human judgements are brought in for this variable. The dataset will be used to get a best performing binary predictive model for identifying sentences with similar meanings based on model evaluation results.
+  
+### Dataset: 
 
+- Description: 736 data points from a public mental health survey, with respondents from diverse age ranges and regions.
+- Survey Structure:
+  - Part 1: General background questions about the responders and their music habits.
+  - Part 2: Frequency of listening to given music genres.
+  - Part 3: Mental Health conditions
 
 ## Repo structure 
 ```
 ├── README.md                         <- You are here
 │
-├── EDA_Feature_Experiments.ipynb     <- Jupyter notebook containing EDA, feature generation and model experiments
+├── Data_Analysis_on_Music_Therapy_Effect.ipynb     <- Jupyter Notebook Containing EDA, Feature Engineering, Visualisations
 │
 ├── requirements.txt                  <- Python package dependencies 
 ```
