@@ -37,6 +37,6 @@
 
 ![plot1](https://github.com/chuandu2/music_therapy/blob/main/graphs/mental_health_by_genre.png)
 
-<p align='center'>
-  <img width='30%' scr='https://github.com/chuandu2/music_therapy/blob/main/graphs/music_genre_pct.png'>
+<p align="center">
+  <img src="https://github.com/chuandu2/music_therapy/blob/main/graphs/music_genre_pct.png?raw=true" alt="plot2"/>
 </p>
