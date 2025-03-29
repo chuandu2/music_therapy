@@ -35,7 +35,10 @@
 
 ### Correlations between Listening Habits and Mental Health Scores
 
-![plot1](https://github.com/chuandu2/music_therapy/blob/main/graphs/mental_health_by_genre.png)
+<p align="center">
+  <img src="https://github.com/chuandu2/music_therapy/blob/main/graphs/mental_health_by_genre.png?raw=true" alt="plot1"/>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/chuandu2/music_therapy/blob/main/graphs/music_genre_pct.png?raw=true" alt="plot2"/>
