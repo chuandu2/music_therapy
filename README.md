@@ -43,3 +43,6 @@
 <p align="center">
   <img src="https://github.com/chuandu2/music_therapy/blob/main/graphs/music_genre_pct.png?raw=true" alt="plot2"/>
 </p>
+
+
+We examined therapy effects for each of four mental disorders and here is an example on anxiety. For more details, go check [Data Analysis Notebook](https://github.com/chuandu2/music_therapy/blob/main/Data_Analysis_on_Music_Therapy_Effect.ipynb).
